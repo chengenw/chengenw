@@ -6,5 +6,5 @@
 Implementations of selected papers from my published research.
 
 ### 2. Notes
-Google Colab notebooks and small repositories documenting my exploration of specific topics.
+Repositories documenting my exploration of specific topics.
 
